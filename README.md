@@ -19,10 +19,19 @@
 </li>
 
 
-<li></li>
-  
-  
-  
+<li>Server-Side
+<ul>
+   <li>PHP 5</li>
+   </ul>
+</li>
+
+
+<li>DB
+<ul>
+   <li>MySql</li>
+   
+   </ul>
+</li>
   
 </ul>
 
