@@ -20,7 +20,8 @@
 
 <p>Set ut the db from the dump file.</p>
 
-<p>If you want to buy a ticket, you must log in.Sign in or use the below data.Be careful 3 times wrong password block your account.<b>TODO expire the block/b>.</p> 
+<p>If you want to buy a ticket, you must log in.Sign in or use the below data.Be careful 3 times wrong password block your account.</p>
+<p><b><u>TODO expire the block</u></b>.
 
 ```
 username:ts@hotmail.com
