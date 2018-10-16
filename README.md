@@ -23,14 +23,14 @@
 
 <p>If you want to buy a ticket you must log in first.Sign in or use the below data.Be careful 3 times wrong password block your account.<b>TODO block expire</b>.</p> 
 
-<code>
+```
 username:ts@hotmail.com
 password:ts
-</code>
+```
 
 
 
-<p>Technology Stack</p><hr>
+<h1>Technology Stack</h1>
 <ul>
 
 <li>Front-End
