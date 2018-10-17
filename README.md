@@ -51,7 +51,7 @@ password:ts
 </li>
 
 
-<li>DB
+<li>Database
 <ul>
    <li>MySql</li>
    
