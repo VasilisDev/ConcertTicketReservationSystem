@@ -20,7 +20,7 @@
 
 <p>Set ut the db from the dump file.</p>
 
-<p>If you want to buy a ticket, you must log in.Sign in or use the below data.Be careful 3 times wrong password block your account!</p>
+<p>If you want to buy a ticket, you must log in.Sign up or use the below data.Be careful 3 times wrong password block your account!</p>
 
 ```
 username:ts@hotmail.com
